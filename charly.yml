@@ -1,7 +1,5 @@
-version: 2026.232.0520
 socat:
     candy:
-        version: 2026.144.1443
         description: |
             Relays an eth0-bound TCP port to the same port on loopback via socat
             Installs the socat binary plus iproute (the `ip` command) and ships the
